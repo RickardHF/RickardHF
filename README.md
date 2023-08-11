@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Rickard Hole Falck
+
+#### About Me
+
+- 💻 Programmer / Engineer
+- 🤺 I'm a fencer
+- ⛵ I'm fond of sailing
+- ✈️ I enjoy traveling and experiencing different cultures
+- 🤔 Enjoy deep conversations
+
 <!--
 **RickardHF/RickardHF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
