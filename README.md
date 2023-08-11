@@ -10,7 +10,7 @@ I'm Rickard Hole Falck
 - ✈️ I enjoy traveling and experiencing different cultures
 - 🤔 Enjoy deep conversations
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rickard-hole-falck/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rickard-hole-falck-5b817713b/)
 
 
 <!--
