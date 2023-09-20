@@ -8,7 +8,6 @@ I'm Rickard Hole Falck
 - 🤺 I'm a fencer
 - ⛵ I'm fond of sailing
 - ✈️ I enjoy traveling and experiencing different cultures
-- 🤔 Enjoy deep conversations
 
 [![GitHub Actions](https://images.credly.com/size/150x150/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)](https://www.credly.com/badges/875b1852-e3aa-42ff-84ce-da776da0e9fe)
 [![GitHub Advanced Security](https://images.credly.com/size/150x150/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png)](https://www.credly.com/badges/d1fa8755-9f39-488b-9e55-af303e297d6e)
