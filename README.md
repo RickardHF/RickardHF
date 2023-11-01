@@ -20,4 +20,4 @@ Here are the GitHub certifications that I've taken
 
 [![RickardHF](https://github-readme-stats.vercel.app/api?username=RickardHF&show_icons=true&count_private=true&theme=dark)](https://https://github.com/RickardHF)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickardhf&layout=pie&size_weight=0.5&count_weight=0.5&theme=dark)](https://github.com/rickardhf)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickardhf&size_weight=0.5&count_weight=0.5&theme=dark&langs_count=10&layout=compact)](https://github.com/rickardhf)
