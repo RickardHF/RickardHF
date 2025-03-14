@@ -40,6 +40,10 @@ Here are the GitHub certifications that I've taken
   <a href="https://www.credly.com/badges/d1fa8755-9f39-488b-9e55-af303e297d6e">
     <img src="https://images.credly.com/size/150x150/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" alt="GitHub Advanced Security" width="200" height="200"/>
   </a>
+  
+  <a href="https://www.credly.com/badges/b8389857-8721-436f-b768-abbd62125d69/public_url">
+    <img src="https://images.credly.com/size/150x150/images/6b924fae-3cd7-4233-b012-97413c62c85d/blob" alt="GitHub Copilot" width="200" height="200"/>
+  </a>
 </div>
 
 #### Stats
