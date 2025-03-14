@@ -29,15 +29,15 @@ Here are __some__ of my skills and knowledges
 Here are the GitHub certifications that I've taken
 
 <div style="display: flex; justify-content: space-around; margin-bottom: 20px; width:100%">
-  <a href="https://www.credly.com/badges/875b1852-e3aa-42ff-84ce-da776da0e9fe" rel="noopener noreferrer" target="_blank">
+  <a href="https://www.credly.com/badges/eaa20458-af6b-46d9-8dfd-c70056bc11e7/public_url" rel="noopener noreferrer" target="_blank">
     <img src="https://images.credly.com/size/150x150/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" alt="GitHub Actions" width="200" height="200"/>
   </a>
 
-  <a href="https://www.credly.com/badges/e66c8ac8-5a69-4627-abdf-4333692f3b20">
+  <a href="https://www.credly.com/badges/a5c07fc8-63ad-4a9d-bc78-91ec513e3f54/public_url">
     <img src="https://images.credly.com/size/150x150/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png" alt="GitHub Administration" width="200" height="200"/>
   </a>
   
-  <a href="https://www.credly.com/badges/d1fa8755-9f39-488b-9e55-af303e297d6e">
+  <a href="https://www.credly.com/badges/cbb2c53a-4122-4012-b556-61e008a58734/public_url">
     <img src="https://images.credly.com/size/150x150/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" alt="GitHub Advanced Security" width="200" height="200"/>
   </a>
   
