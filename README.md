@@ -8,7 +8,7 @@ I'm Rickard Hole Falck, and I work as an IT consultant. I work with DevOps, back
 - 🏫✈️ Exchange student at FIT at CVUT in Prague
 - :norway: From between the fjords and mountains in Norway ⛰️
 - 💻 Solves programming problems on my spare time
-- ⚔️ At my spare time I enjoy fencing and doing judo 🥋
+- ⚔️ At my spare time I enjoy fencing (HEMA) and doing judo 🥋
 - ⛵ I'm fond of sailing and the sea.
 - 🏍️ Motorcycling is one of my newer hobbies
 - 📖🥾 Enjoy reading and hiking
